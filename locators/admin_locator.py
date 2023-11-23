@@ -24,3 +24,9 @@ class TambahPilihanGanda(object):
     PENJELASAN = (By.XPATH, '/html/body/div/main/div/form/div[5]/div/div/div')
     BUTTON_SIMPAN = (By.XPATH, '/html/body/div/main/div/form/div[6]/div/button')
     PAGINATION = (By.XPATH, '/html/body/div/main/div/nav/ul/li[{nomor_halaman}]/a')
+
+class TambahEssay(object):
+    MENU_TAMBAH_ESSAY = (By.XPATH, '/html/body/div/div[2]/a[8]')
+    OBJEK = (By.XPATH, '/html/body/div/main/div/form/div[4]/div')
+    TINGKAT_SOAL = (By.XPATH, "//*[@id='question_type']")
+    BUTTON_SIMPAN = (By.XPATH, '/html/body/div/main/div/form/div[4]/div')
