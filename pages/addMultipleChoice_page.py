@@ -6,6 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
+from selenium.common.exceptions import NoSuchElementException
 import random
 import time
 
@@ -68,34 +69,31 @@ class AddMultipleChoice:
     def cek_soal(self):
     
         # Temukan elemen yang ingin di-scroll
-        target_element = self.driver.find_element(By.XPATH, '/html/body/div/main/div/nav/ul/li[1]/a')
+        target_element = self.driver.find_element(By.XPATH, "//a[normalize-space()='Next']")
+        self.driver.execute_script("arguments[0].scrollIntoView(true);", target_element)
+        WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//a[normalize-space()="Next"]')))
 
-        pagination = self.driver.find_element(By.XPATH, f'/html/body/div/main/div/nav/ul/li[{8}]/a')
-        pagination.click()
-
-        soal_teks = "soal no 1"
         try:
-            # Tunggu hingga elemen dengan teks soal tertentu muncul
-            WebDriverWait(self.driver, 10).until(
-                EC.text_to_be_present_in_element((By.XPATH, "/html/body/div/main/div/div[2]"), soal_teks)
-            )
-            print(f"Soal dengan teks '{soal_teks}' sudah tersimpan!")
-        except:
-            print(f"Soal dengan teks '{soal_teks}' tidak ditemukan. Mungkin belum tersimpan.")
-
-        # i = 2
-        # while i < 100:
-        #     WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.XPATH, "/html/body/div/main/div/nav/ul/li[1]/a")))
-        #     self.driver.execute_script("arguments[0].scrollIntoView(true);", target_element)
-
-        #     pagination = self.driver.find_element(By.XPATH, f'/html/body/div/main/div/nav/ul/li[{i}]/a')
-        #     pagination.click()
+            # Cari semua elemen yang memiliki class 'page-item' kecuali yang terakhir (biasanya 'Next')
+            page_items = self.driver.find_elements(By.CSS_SELECTOR, "li.page-item:not(:last-child)")
             
-        # i = 1
-        # while i < 100:  # Mulai dari halaman pertama
-        #     pagination_xpath = f'/html/body/div/main/div/nav/ul/li[{i}]/a'
-            
+            # Dapatkan link dari elemen terakhir (yang sebelum 'Next')
+            last_page_link = page_items[-1].find_element(By.TAG_NAME, "a")
+            WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable((last_page_link)))
 
+            # Klik link untuk navigasi ke halaman tersebut
+            last_page_link.click()
+            
+            # Cari soal yang sebelumnya ditambahkan
+            WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.XPATH, "//p[contains(text(),'Soal nomor 2')]")))
+            self.driver.save_screenshot("pilgan_tersimpan.png")
+        
+        except NoSuchElementException:
+            print("Tidak dapat menemukan elemen pagination")
+
+        # finally:
+        #     # Jangan lupa untuk menutup driver setelah tes selesai
+        #     self.driver.quit()
 
 
 

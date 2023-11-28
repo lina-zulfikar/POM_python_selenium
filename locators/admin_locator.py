@@ -30,3 +30,6 @@ class TambahEssay(object):
     OBJEK = (By.XPATH, '/html/body/div/main/div/form/div[4]/div')
     TINGKAT_SOAL = (By.XPATH, "//*[@id='question_type']")
     BUTTON_SIMPAN = (By.XPATH, '/html/body/div/main/div/form/div[4]/div')
+
+class TambahStudiKasus(object):
+    MENU_TAMBAH_STUDI_KASUS = (By.XPATH, '/html/body/div/div[2]/a[11]')

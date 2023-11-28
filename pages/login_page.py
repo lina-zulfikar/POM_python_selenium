@@ -23,6 +23,6 @@ class LoginPage:
 
     def click_masuk(self):
         self.driver.find_element(*self.button_masuk).click()
-        # WebDriverWait(self.driver, 20).until(EC._element_if_visible('/html/body/main/div[1]'))
-        time.sleep(3)
+        WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.XPATH, '/html/body/main/div[1]/div[3]/div[2]/div[1]')))
+        
         

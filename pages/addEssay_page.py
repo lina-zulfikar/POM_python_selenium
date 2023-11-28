@@ -52,5 +52,12 @@ class AddEssay:
         
         WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.XPATH, "/html/body/div/main/div/div[1]/a")))
 
+    # !!! cek coal !!! #
+    def cek_essay(self):
+        element = self.driver.find_element(By.XPATH, '/html/body/div/div[2]/a[7]')
+        element.click()
+        
+        WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.XPATH, "//p[contains(text(),'Essay nomor 1')]")))
+        self.driver.save_screenshot("essay_tersimpan.png")
         
 
