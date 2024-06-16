@@ -3684,3 +3684,864 @@ console.error: ({})
 console.error: ({})
 1701144161593	Marionette	INFO	Stopped listening on port 55813
 Dynamically enable window occlusion 1
+1701502748637	geckodriver	INFO	Listening on 127.0.0.1:50700
+1701502751673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileQuMNVo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701502752486	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701502752630	Marionette	INFO	Listening on port 50710
+WebDriver BiDi listening on ws://127.0.0.1:50701
+Read port: 50710
+1701502752947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50701/devtools/browser/b78367c9-f03a-412f-9bc9-734fa28d20f5
+console.error: ({})
+console.error: ({})
+1701502782537	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701502898142	Marionette	INFO	Stopped listening on port 50711701502899253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileEp3MjN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701502899788	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701502899893	Marionette	INFO	Listening on port 50867
+WebDriver BiDi listening on ws://127.0.0.1:50857
+Read port: 50867
+1701502899984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50857/devtools/browser/3d33c397-cc2a-4314-bb58-169d44290a70
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1701502929815	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701503579299	geckodriver	INFO	Listening on 127.0.0.1:51441
+1701503582318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51442" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofiletoYVoO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701503582932	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701503583062	Marionette	INFO	Listening on port 51450
+Read port: 51450
+WebDriver BiDi listening on ws://127.0.0.1:51442
+1701503583200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51442/devtools/browser/91dae6fd-995c-440a-aa49-071d55a54e22
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1701503612972	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701503706279	geckodriver	INFO	Listening on 127.0.0.1:51619
+1701503709322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51620" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileXSmdee"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701503709897	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701503710028	Marionette	INFO	Listening on port 51628
+WebDriver BiDi listening on ws://127.0.0.1:51620
+Read port: 51628
+1701503710320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51620/devtools/browser/dda2ed05-326d-45a5-b317-458691e80304
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1701503739908	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701503900273	geckodriver	INFO	Listening on 127.0.0.1:51791
+1701503903297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51792" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilePB7oli"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701503903908	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701503904030	Marionette	INFO	Listening on port 51801
+WebDriver BiDi listening on ws://127.0.0.1:51792
+Read port: 51801
+1701503904278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51792/devtools/browser/7200d9fd-818f-4093-ad72-4e773c36bd5a
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1701503933932	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701504119943	geckodriver	INFO	Listening on 127.0.0.1:51984
+1701504122975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilezyFNCV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701504123560	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701504123677	Marionette	INFO	Listening on port 51994
+WebDriver BiDi listening on ws://127.0.0.1:51985
+Read port: 51994
+1701504124003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51985/devtools/browser/bd71f9d5-8409-447e-ad62-4c2df945e84a
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1701504153591	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701504262447	geckodriver	INFO	Listening on 127.0.0.1:52198
+1701504265471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileT7OOVs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701504266060	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701504266191	Marionette	INFO	Listening on port 52207
+WebDriver BiDi listening on ws://127.0.0.1:52199
+Read port: 52207
+1701504266502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52199/devtools/browser/d223bfdc-e31c-4bcb-aceb-b342bab036bb
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1701504296099	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701504330354	geckodriver	INFO	Listening on 127.0.0.1:52334
+1701504333401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilecQjlHX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701504333996	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701504334097	Marionette	INFO	Listening on port 52346
+WebDriver BiDi listening on ws://127.0.0.1:52335
+Read port: 52346
+1701504334346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52335/devtools/browser/4662b9f3-2ccf-4c15-8c61-87a8870854ff
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1701504364023	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701504475562	geckodriver	INFO	Listening on 127.0.0.1:52577
+1701504486222	geckodriver	INFO	Listening on 127.0.0.1:52593
+1701504489259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52594" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofile2kTHij"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701504489802	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701504489916	Marionette	INFO	Listening on port 52603
+WebDriver BiDi listening on ws://127.0.0.1:52594
+Read port: 52603
+1701504490219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52594/devtools/browser/b6f4aca0-f4af-4bb0-8583-90333691b0fd
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1701504519820	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701504654288	Marionette	INFO	Stopped listening on port 52603
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileMwWuXp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701504529655	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701504529779	Marionette	INFO	Listening on port 52717
+WebDriver BiDi listening on ws://127.0.0.1:52709
+Read port: 52717
+1701504530081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52709/devtools/browser/8b3f0905-983b-422f-83fd-f742aecbd13c
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1701504559677	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701504655259	Marionette	INFO	Stopped listening on port 52717
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofile6ItXsO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701504650475	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701504650598	Marionette	INFO	Listening on port 52907
+WebDriver BiDi listening on ws://127.0.0.1:52891
+Read port: 52907
+1701504650916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52891/devtools/browser/240ac732-45ff-484f-8f5a-7d9038fba1da
+console.error: ({})
+1701504670143	Marionette	INFO	Stopped listening on port 52907
+Dynamically enable window occlusion 1
+console.error: (new Error("IndexedDB: main/partitioning-exempt-urls list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1701504673780	geckodriver	INFO	Listening on 127.0.0.1:52973
+1701504676804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52974" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileVlYGvC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701504677380	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701504677502	Marionette	INFO	Listening on port 52985
+WebDriver BiDi listening on ws://127.0.0.1:52974
+Read port: 52985
+1701504677812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52974/devtools/browser/f5e89083-f17a-4967-995e-1d30ec2df5ee
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1701504707409	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1703515487220	geckodriver	INFO	Listening on 127.0.0.1:51855
+1703515490262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51856" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileuWuQEq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703515490993	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703515491150	Marionette	INFO	Listening on port 51863
+WebDriver BiDi listening on ws://127.0.0.1:51856
+Read port: 51863
+1703515491281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51856/devtools/browser/bcfd155d-0a82-44bf-8ffe-29dd5821ceea
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1703515521014	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703555335011	Marionette	INFO	Stopped listening on port 51863
+Dynamically enable window occlusion 1
+1703555340347	geckodriver	INFO	Listening on 127.0.0.1:52622
+1703555343390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofile23Iy8z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703555343762	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703555343844	Marionette	INFO	Listening on port 52632
+WebDriver BiDi listening on ws://127.0.0.1:52623
+Read port: 52632
+1703555344049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52623/devtools/browser/cf179044-45ec-41d9-89bb-2f288d83ab78
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1703555373795	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703555414136	Marionette	INFO	Stopped listening on port 52632
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52715" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileTbxZOG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703555377828	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703555377897	Marionette	INFO	Listening on port 52722
+WebDriver BiDi listening on ws://127.0.0.1:52715
+Read port: 52722
+1703555378087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52715/devtools/browser/a86ec774-5fb1-4371-aa3c-7d6a61896e6e
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1703555407856	addons.xpi	ERROR	System addon update list erro1703555408253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilegQkbtF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703555408622	M1703555414893	Marionette	INFO	Stopped listening on port 52722
+Dynamically enable window occlusion 1
+O	Listening on port 52812
+WebDriver BiDi listening on ws://127.0.0.1:52801
+Read port: 52812
+1703555408904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52801/devtools/browser/4f7f0cc2-01be-47de-8d0e-3a85ae34b5ed
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1703555438644	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703555835595	Marionette	INFO	Stopped listening on port 52812
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52904" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofile4MBunN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703555813738	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703555813804	Marionette	INFO	Listening on port 52911
+WebDriver BiDi listening on ws://127.0.0.1:52904
+Read port: 52911
+1703555813982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52904/devtools/browser/d8a4a9a4-c7a6-4e14-b41c-d9d1bfa7c995
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1703555843749	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703556211797	Marionette	INFO	Stopped listening on port 52911
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileH0lvvU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703556103297	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703556103365	Marionette	INFO	Listening on port 53022
+WebDriver BiDi listening on ws://127.0.0.1:53015
+Read port: 53022
+1703556103518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53015/devtools/browser/8ee85c07-a6a1-4203-bc07-9ae99e3f6b13
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1703556133316	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703556212979	Marionette	INFO	Stopped listening on port 53022
+Dynamically enable window occlusion 1
+1703556219560	geckodriver	INFO	Listening on 127.0.0.1:53115
+1703556222597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileswbuSb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703556222916	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703556222983	Marionette	INFO	Listening on port 53123
+WebDriver BiDi listening on ws://127.0.0.1:53116
+Read port: 53123
+1703556223144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53116/devtools/browser/b90135ee-54f4-4efc-91f7-397cf403cd08
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1703556252938	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703556410578	Marionette	INFO	Stopped listening on port 53123
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53210" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofiler2WtpU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703556303395	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703556303465	Marionette	INFO	Listening on port 53217
+WebDriver BiDi listening on ws://127.0.0.1:53210
+Read port: 53217
+1703556303634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53210/devtools/browser/48861eab-5f5f-43b8-a0ef-dc10fce6e308
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1703556333406	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703556411893	Marionette	INFO	Stopped listening on port 53217
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53300" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofile4VR6RX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703556362512	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703556362584	Marionette	INFO	Listening on port 53308
+WebDriver BiDi listening on ws://127.0.0.1:53300
+Read port: 53308
+1703556362769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53300/devtools/browser/52d83bb9-81c2-41bb-9339-72fb20e28e68
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1703556392542	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703556412718	Marionette	INFO	Stopped listening on port 53308
+Dynamically enable window occlusion 1
+1703556626782	geckodriver	INFO	Listening on 127.0.0.1:53398
+1703556629817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53399" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileoIvC8w"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703556630131	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703556630195	Marionette	INFO	Listening on port 53406
+WebDriver BiDi listening on ws://127.0.0.1:53399
+Read port: 53406
+1703556630365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53399/devtools/browser/2a7406b6-74e0-49ab-b8db-c36597cebb6c
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1703556654864	Marionette	INFO	Stopped listening on port 53401703556655314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53486" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileRYRDl0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703556655636	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703556655708	Marionette	INFO	Listening on port 53494
+WebDriver BiDi listening on ws://127.0.0.1:53486
+Read port: 53494
+1703556655881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53486/devtools/browser/e500e73e-57ae-4268-b424-d8b087bf91ca
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1703556685661	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703556811269	Marionette	INFO	Stopped listening on port 53494
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53585" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileHvPtej"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703556800514	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703556800580	Marionette	INFO	Listening on port 53592
+WebDriver BiDi listening on ws://127.0.0.1:53585
+Read port: 53592
+1703556800749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53585/devtools/browser/d07629b1-fdba-4da9-a722-517441c12f54
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1703556813227	Marionette	INFO	Stopped listening on port 53592
+Dynamically enable window occlusion 1
+1703556829404	geckodriver	INFO	Listening on 127.0.0.1:53669
+1703556832441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53670" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileCxW8Oj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703556832749	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703556832816	Marionette	INFO	Listening on port 53678
+WebDriver BiDi listening on ws://127.0.0.1:53670
+Read port: 53678
+1703556832982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53670/devtools/browser/332c1f04-0ab7-45b2-a130-95f0d6600d54
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1703556862768	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703557027770	Marionette	INFO	Stopped listening on port 53678
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileAMZyGB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703556881206	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703556881274	Marionette	INFO	Listening on port 53768
+WebDriver BiDi listening on ws://127.0.0.1:53761
+Read port: 53768
+1703556881415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53761/devtools/browser/75f1e89d-5f1e-444a-b336-e7dac97a7862
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1703556911229	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703557028813	Marionette	INFO	Stopped listening on port 53768
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53850" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilezNyTD6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703556926490	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703556926561	Marionette	INFO	Listening on port 53858
+WebDriver BiDi listening on ws://127.0.0.1:53850
+Read port: 53858
+1703556926743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53850/devtools/browser/a5bc8f88-d62e-435c-9911-2f3de8f9f5e4
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1703556956507	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703557030210	Marionette	INFO	Stopped listening on port 53858
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilerfi4oB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703556980441	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703556980517	Marionette	INFO	Listening on port 53952
+WebDriver BiDi listening on ws://127.0.0.1:53945
+Read port: 53952
+1703556980704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53945/devtools/browser/671ae18f-2ed2-4dc0-aa8e-8b54e94f0ffd
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1703557010458	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703557031206	Marionette	INFO	Stopped listening on port 53952
+Dynamically enable window occlusion 1
+1703557212895	geckodriver	INFO	Listening on 127.0.0.1:54169
+1703557215931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54170" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileBCwX92"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703557216276	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703557216348	Marionette	INFO	Listening on port 54179
+WebDriver BiDi listening on ws://127.0.0.1:54170
+Read port: 54179
+1703557216488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54170/devtools/browser/8af8267d-528b-4d35-9e95-6000967131c1
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1703557231834	Marionette	INFO	Stopped listening on port 54179
+Dynamically enable window occlusion 1
+1703557245402	geckodriver	INFO	Listening on 127.0.0.1:54275
+1703557248461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54276" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileyvWpvr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703557248777	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703557248842	Marionette	INFO	Listening on port 54287
+WebDriver BiDi listening on ws://127.0.0.1:54276
+Read port: 54287
+1703557249006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54276/devtools/browser/e88fbec8-5868-44cb-8ed7-a1d13e4871fe
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1703557260008	Marionette	INFO	Stopped listening on port 54287
+Dynamically enable window occlusion 1
+1703557386717	geckodriver	INFO	Listening on 127.0.0.1:54463
+1703557389746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54464" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileDzuDlU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703557390075	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703557390141	Marionette	INFO	Listening on port 54473
+WebDriver BiDi listening on ws://127.0.0.1:54464
+Read port: 54473
+1703557390305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54464/devtools/browser/985e93c5-d726-496a-b76d-3a16a7df0b30
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1703557420095	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1703557482964	geckodriver	INFO	Listening on 127.0.0.1:54607
+1703557486012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54608" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofile0f1bWK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703557486319	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703557486386	Marionette	INFO	Listening on port 54617
+WebDriver BiDi listening on ws://127.0.0.1:54608
+Read port: 54617
+1703557486550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54608/devtools/browser/0936a744-3b76-445f-a2eb-b97088a29b82
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1703557499685	Marionette	INFO	Stopped listening on port 54617
+Dynamically enable window occlusion 1
+1703827119537	geckodriver	INFO	Listening on 127.0.0.1:57698
+1703827122605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileCOSUqz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703827123200	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703827123336	Marionette	INFO	Listening on port 57706
+WebDriver BiDi listening on ws://127.0.0.1:57699
+Read port: 57706
+1703827123671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57699/devtools/browser/c303cf78-44b4-410b-8f03-93f60e4d95fa
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1703827153239	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+Exiting due to channel error.
+1703831852751	geckodriver	INFO	Listening on 127.0.0.1:58511
+1703831855793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilebnlKAM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703831856388	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703831856507	Marionette	INFO	Listening on port 58519
+WebDriver BiDi listening on ws://127.0.0.1:58512
+Read port: 58519
+1703831856821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58512/devtools/browser/c61e8f52-e27c-4b52-9c1a-865611384753
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1703831886416	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+Exiting due to channel error.
+Listening on 127.0.0.1:59839
+1703833529433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59840" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilePtnF7A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703833530030	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703833530168	Marionette	INFO	Listening on port 59847
+WebDriver BiDi listening on ws://127.0.0.1:59840
+Read port: 59847
+1703833530474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59840/devtools/browser/948add5d-a892-4787-aca3-294ac3605fa6
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1703833560057	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: ({})
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+Exiting due to channel error.
+Listening on 127.0.0.1:61032
+1703834315131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileiJLBVt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703834315652	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703834315768	Marionette	INFO	Listening on port 61043
+WebDriver BiDi listening on ws://127.0.0.1:61033
+Read port: 61043
+1703834316017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61033/devtools/browser/624b290f-df3a-4d18-a0fb-ec23116ba6cb
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.error: ({})
+1703834345678	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1703834390732	Marionette	INFO	Stopped listening on port 61043
+Dynamically enable window occlusion 1
+1703834393232	geckodriver	INFO	Listening on 127.0.0.1:61275
+1703834396275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61276" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofile1tLzIY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703834396814	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703834396935	Marionette	INFO	Listening on port 61285
+WebDriver BiDi listening on ws://127.0.0.1:61276
+Read port: 61285
+1703834397061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61276/devtools/browser/95295dce-7676-4534-a4bd-1f418490813c
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.error: ({})
+1703834426851	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))

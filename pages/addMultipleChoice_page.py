@@ -1,5 +1,6 @@
 from selenium import webdriver 
 from selenium.webdriver.common.by import By
+from base_page import BasePage
 from locators.admin_locator import TambahPilihanGanda
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -11,9 +12,9 @@ import random
 import time
 
 class AddMultipleChoice:
-    def __init__(self, driver):
-        self.driver = driver
-        self.element = TambahPilihanGanda
+    # def __init__(self, driver):
+    #     self.driver = driver
+    #     self.element = TambahPilihanGanda
 
     def open_menu_tambah_pilgan(self):
         

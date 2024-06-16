@@ -1,5 +1,6 @@
 from selenium import webdriver 
 from selenium.webdriver.common.by import By
+from base_page import BasePage
 from locators.admin_locator import TambahStudiKasus
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -9,10 +10,7 @@ from selenium.webdriver.common.keys import Keys
 import random
 import time
 
-class AddCaseStudy:
-    def __init__(self, driver):
-        self.driver = driver
-
+class AddCaseStudy(BasePage):
     def open_menu_tambah_studi_kasus(self):
         element = self.driver.find_element(*TambahStudiKasus.MENU_TAMBAH_STUDI_KASUS)
         element.click()

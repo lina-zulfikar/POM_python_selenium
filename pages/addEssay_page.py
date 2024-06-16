@@ -1,5 +1,6 @@
 from selenium import webdriver 
 from selenium.webdriver.common.by import By
+from base_page import BasePage
 from locators.admin_locator import TambahEssay
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -9,10 +10,10 @@ from selenium.webdriver.common.keys import Keys
 import random
 import time
 
-class AddEssay:
-    def __init__(self, driver):
-        self.driver = driver
-        self.element = TambahEssay
+class AddEssay(BasePage):
+    # def __init__(self, driver):
+    #     self.driver = driver
+    #     # self.element = TambahEssay
 
     def open_menu_tambah_essay(self):
         element = self.driver.find_element(*TambahEssay.MENU_TAMBAH_ESSAY)
@@ -21,9 +22,9 @@ class AddEssay:
 
     def isi_elemen(self, elemen_id, nilai):
         WebDriverWait(self.driver, 20).until(EC.visibility_of_element_located((By.ID, elemen_id)))
+        
         # Temukan elemen yang ingin di-scroll
         target_element = self.driver.find_element(By.ID, elemen_id)
-
         # Scroll ke elemen
         self.driver.execute_script("arguments[0].scrollIntoView(true);", target_element)
         time.sleep(1)  

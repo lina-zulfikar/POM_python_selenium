@@ -27,7 +27,7 @@ def test_berhasil_login():
     login_page.click_login()
     login_page.enter_email('linazulfikar99@gmail.com')
     login_page.enter_password('Testingautomation')
-    login_page.click_masuk()
+    login_page.click_masuk('/html/body/main/div[1]/div[3]/div[2]/div[1]')
 
 def test_berhasil_tambah_pilgan():
     tambah_pilgan = AddMultipleChoice(driver)
