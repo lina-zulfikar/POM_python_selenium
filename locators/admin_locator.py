@@ -13,7 +13,7 @@ class DashboardLocators(object):
 class TambahPilihanGanda(object):
     HEADER = (By.XPATH, '/html/body/div/main/div/p')
     MENU_TAMBAH_PILGAN = (By.XPATH, '/html/body/div/div[2]/a[5]')
-    TAMBAH_PERTANYAAN = 'cke_1_contents'
+    TAMBAH_PERTANYAAN = '#cke_1_contents'
     TINGKAT_SOAL = (By.ID, 'question_type')
     BODY = (By.TAG_NAME, 'body')
     PILGAN_A = ('#cke_2_contents')
@@ -26,10 +26,10 @@ class TambahPilihanGanda(object):
     PAGINATION = (By.XPATH, '/html/body/div/main/div/nav/ul/li[{nomor_halaman}]/a')
 
 class TambahEssay(object):
-    MENU_TAMBAH_ESSAY = (By.XPATH, '/html/body/div/div[2]/a[8]')
+    MENU_TAMBAH_ESSAY = (By.XPATH, "//p[normalize-space()='Tambah Esai']")
     OBJEK = (By.XPATH, '/html/body/div/main/div/form/div[4]/div')
     TINGKAT_SOAL = (By.XPATH, "//*[@id='question_type']")
     BUTTON_SIMPAN = (By.XPATH, '/html/body/div/main/div/form/div[4]/div')
 
 class TambahStudiKasus(object):
-    MENU_TAMBAH_STUDI_KASUS = (By.XPATH, '/html/body/div/div[2]/a[11]')
+    MENU_TAMBAH_STUDI_KASUS = (By.XPATH, "//p[normalize-space()='Tambah Studi Kasus']")

@@ -4545,3 +4545,2032 @@ console.error: ({})
 1703834426851	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
 console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1724714266775	geckodriver	INFO	Listening on 127.0.0.1:51109
+1724714269814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51110" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileWm2lrL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724714270603	Marionette	INFO	Marionette enabled
+1724714270813	Marionette	INFO	Listening on port 51117
+WebDriver BiDi listening on ws://127.0.0.1:51110
+Read port: 51117
+1724714271137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+1724714300650	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1724714386692	Marionette	INFO	Stopped listening on port 51117
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51228" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileYxHsmy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724714348666	Marionette	INFO	Marionette enabled
+1724714348839	Marionette	INFO	Listening on port 51235
+WebDriver BiDi listening on ws://127.0.0.1:51228
+Read port: 51235
+1724714349085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+1724714378710	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1724714387746	Marionette	INFO	Stopped listening on port 51231724714388259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileJWKza8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724714388773	Marionette	INFO	Marionette enabled
+1724714388928	Marionette	INFO	Listening on port 51324
+WebDriver BiDi listening on ws://127.0.0.1:51317
+Read port: 51324
+1724714389152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1724714420123	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1724714601655	Marionette	INFO	Stopped listening on port 51324
+Dynamically enable window occlusion 1
+ng-port" "51394" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileOcivyF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724714454098	Marionette	INFO	Marionette enabled
+1724714454299	Marionette	INFO	Listening on port 51402
+Read port: 51402
+WebDriver BiDi listening on ws://127.0.0.1:51394
+1724714454476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+1724714484139	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1724714602993	Marionette	INFO	Stopped listening on port 51402
+Dynamically enable window occlusion 1
+a\\Local\\Temp\\rust_mozprofileXvDF2K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724714519552	Marionette	INFO	Marionette enabled
+1724714519750	Marionette	INFO	Listening on port 51495
+WebDriver BiDi listening on ws://127.0.0.1:51487
+Read port: 51495
+1724714520007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+1724714549592	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1724714604464	Marionette	INFO	Stopped listening on port 51495
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51578" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofile93ldvX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1724714584887	Marionette	INFO	Marionette enabled
+1724714585060	Marionette	INFO	Listening on port 51586
+WebDriver BiDi listening on ws://127.0.0.1:51578
+Read port: 51586
+1724714585314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1724714614921	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+Exiting due to channel error.
+1725762148493	geckodriver	INFO	Listening on 127.0.0.1:51169
+1725762151546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51170" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilecutin3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725762152332	Marionette	INFO	Marionette enabled
+1725762152550	Marionette	INFO	Listening on port 51177
+WebDriver BiDi listening on ws://127.0.0.1:51170
+Read port: 51177
+1725762152856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:916:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:821:38
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.sys.mjs:118:5
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:672:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.sys.mjs:386:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.sys.mjs:118:5
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:672:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.sys.mjs:386:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.sys.mjs:118:5
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:672:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.sys.mjs:386:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.sys.mjs:118:5
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:672:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.sys.mjs:386:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.sys.mjs:118:5
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:672:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.sys.mjs:386:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.sys.mjs:118:5
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:672:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.sys.mjs:386:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.sys.mjs:118:5
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:672:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.sys.mjs:386:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.sys.mjs:118:5
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:672:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.sys.mjs:386:22
+
+console.error: services.settings: 
+  Message: NetworkOfflineError: Network is offline
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkOfflineError@resource://services-settings/RemoteSettingsClient.sys.mjs:118:5
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:672:15
+remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.sys.mjs:386:22
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:916:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:821:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:916:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:821:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:916:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:821:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:916:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:821:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:916:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:821:38
+
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1725762213267	Marionette	INFO	Stopped listening on port 51177
+Dynamically enable window occlusion 1
+1725762216265	geckodriver	INFO	Listening on 127.0.0.1:51358
+1725762219283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileQzRiA3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725762219842	Marionette	INFO	Marionette enabled
+1725762220044	Marionette	INFO	Listening on port 51367
+Read port: 51367
+WebDriver BiDi listening on ws://127.0.0.1:51359
+1725762220176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+Exiting due to channel error.
+1725762282416	geckodriver	INFO	Listening on 127.0.0.1:51490
+1725762285453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileqobnGe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725762286012	Marionette	INFO	Marionette enabled
+1725762286194	Marionette	INFO	Listening on port 51498
+WebDriver BiDi listening on ws://127.0.0.1:51491
+Read port: 51498
+1725762286436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725763622602	Marionette	INFO	Stopped listening on port 51498
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofile8rJikv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725763218539	Marionette	INFO	Marionette enabled
+1725763218706	Marionette	INFO	Listening on port 51716
+WebDriver BiDi listening on ws://127.0.0.1:51709
+Read port: 51716
+1725763218924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725763623338	Marionette	INFO	Stopped listening on port 51716
+Dynamically enable window occlusion 1
+ts: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725763624193	Marionette	INFO	Stopped listening on port 51841
+Dynamically enable window occlusion 1
+1725763762038	geckodriver	INFO	Listening on 127.0.0.1:52112
+1725763765072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52113" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileaIimNs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725763765744	Marionette	INFO	Marionette enabled
+1725763765917	Marionette	INFO	Listening on port 52120
+Read port: 52120
+WebDriver BiDi listening on ws://127.0.0.1:52113
+1725763766078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1725763778928	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763778940	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763778948	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763778961	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763778971	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763778980	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/daerah/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725763915533	Marionette	INFO	Stopped listening on port 52121725763916803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52296" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofile3fL4ix"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725763917428	Marionette	INFO	Marionette enabled
+1725763917626	Marionette	INFO	Listening on port 52303
+WebDriver BiDi listening on ws://127.0.0.1:52296
+Read port: 52303
+1725763917883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1725763931075	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763931086	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763931092	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763931098	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763931104	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763931110	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763936902	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+console.error: ({})
+1725763944147	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763944163	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763944171	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763944179	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763944186	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763944194	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763964072	geckodriver	INFO	Listening on 127.0.0.1:52423
+1725763967112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileRxZxcH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725763967790	Marionette	INFO	Marionette enabled
+1725763967964	Marionette	INFO	Listening on port 52433
+WebDriver BiDi listening on ws://127.0.0.1:52424
+Read port: 52433
+1725763968198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1725763980992	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763981001	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763981009	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763981016	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763981023	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725763981031	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725764590730	Marionette	INFO	Stopped listening on port 52433
+Dynamically enable window occlusion 1
+te settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725764298478	Marionette	INFO	Marionette enabled
+1725764298673	Marionette	INFO	Listening on portconsole.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725764591821	Marionette	INFO	Stopped listening on port 52626
+Dynamically enable window occlusion 1
+rah/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/daerah/7" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/daerah/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725764592674	Marionette	INFO	Stopped listening on port 52879
+Dynamically enable window occlusion 1
+dyState of 'interactive'.
+1725764404133	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725764404142	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725764404150	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/daerah/7" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/daerah/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725764593590	Marionette	INFO	Stopped listening on port 53053
+Dynamically enable window occlusion 1
+N	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1725764514704	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725764514711	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+1725764594953	Marionette	INFO	Stopped listening on port 53216
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53355" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileNjDvLL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725764552347	Marionette	INFO	Marionette enabled
+1725764552548	Marionette	INFO	Listening on port 53362
+WebDriver BiDi listening on ws://127.0.0.1:53355
+Read port: 53362
+1725764552784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1725764566235	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725764566250	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725764595978	Marionette	INFO	Stopped listening on port 53362
+Dynamically enable window occlusion 1
+1725764621151	geckodriver	INFO	Listening on 127.0.0.1:53512
+1725764624178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileyGrlqK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725764624785	Marionette	INFO	Marionette enabled
+1725764624959	Marionette	INFO	Listening on port 53520
+WebDriver BiDi listening on ws://127.0.0.1:53513
+Read port: 53520
+1725764625221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1725764637766	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725764637778	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725765190428	Marionette	INFO	Stopped listening on port 53520
+Dynamically enable window occlusion 1
+g event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725764886479	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/daerah/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/daerah/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725765191276	Marionette	INFO	Stopped listening on port 53720
+Dynamically enable window occlusion 1
+event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725764941938	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/daerah/2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/daerah/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/daerah/2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/daerah/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725765192121	Marionette	INFO	Stopped listening on port 53906
+Dynamically enable window occlusion 1
+ow' because document has an invalid readyState of 'interactive'.
+1725765008666	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008672	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008678	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008684	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008690	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008696	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008702	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008736	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008742	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008748	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008754	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008760	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008769	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008776	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008782	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008788	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008793	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765008800	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725765193028	Marionette	INFO	Stopped listening on port 54071
+Dynamically enable window occlusion 1
+environment
+Dynamically enable window occlusion 0
+1725765074349	Marionette	INFO	Marionette enabled
+1725765074539	Marionette	INFO	Listening on port 54215
+WebDriver BiDi listening on ws://127.0.0.1:54208
+Read port: 54215
+1725765074821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1725765088618	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088627	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088636	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088645	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088653	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088661	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088669	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088678	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088692	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088698	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088738	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088744	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088752	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088758	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088765	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088774	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088782	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088787	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088793	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088799	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765088806	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725765669503	Marionette	INFO	Stopped listening on port 54215
+Dynamically enable window occlusion 1
+'.
+1725765259275	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259282	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259289	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259295	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259300	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259306	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259312	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259318	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259363	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259369	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259375	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259388	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259395	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259401	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259407	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259413	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259419	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259426	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765259432	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725765670429	Marionette	INFO	Stopped listening on port 54377
+Dynamically enable window occlusion 1
+s message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1725765421614	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421624	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421632	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421640	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421648	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421655	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421664	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421672	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421683	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421693	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421727	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421735	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421741	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421746	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421759	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421765	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421773	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421780	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421786	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421791	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765421797	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/daerah/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/daerah/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725765671216	Marionette	INFO	Stopped listening on port 54532
+Dynamically enable window occlusion 1
+ause document has an invalid readyState of 'interactive'.
+1725765518555	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518561	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518566	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518572	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518578	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518584	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518590	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518596	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518602	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518635	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518647	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518653	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518659	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518665	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518671	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518677	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518682	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518688	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518693	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725765518699	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/daerah/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725765673122	Marionette	INFO	Stopped listening on port 54697
+Dynamically enable window occlusion 1
+ionette	INFO	Listening on port 54853
+WebDriver BiDi listening on ws://127.0.0.1:54846
+Read port: 54853
+1725765579631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1725765674761	Marionette	INFO	Stopped listening on port 54853
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54976" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofile5e7Pvo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725765671018	Marionette	INFO	Marionette enabled
+1725765671244	Marionette	INFO	Listening on port 54983
+WebDriver BiDi listening on ws://127.0.0.1:54976
+Read port: 54983
+1725765671467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725766372840	Marionette	INFO	Stopped listening on port 54983
+Dynamically enable window occlusion 1
+})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725766373953	Marionette	INFO	Stopped listening on port 55110
+Dynamically enable window occlusion 1
+})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725766374894	Marionette	INFO	Stopped listening on port 55278
+Dynamically enable window occlusion 1
+8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+1725770163650	Marionette	INFO	Stopped listening on port 55419
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilezz0x2u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725767523303	Marionette	INFO	Marionette enabled
+1725767523477	Marionette	INFO	Listening on port 56084
+WebDriver BiDi listening on ws://127.0.0.1:56077
+Read port: 56084
+1725767523733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/7/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/interlude/7" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-1/7/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type/pusat" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/7/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/interlude/7" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-1/7/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type/pusat" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/7/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/interlude/7" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-1/7/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type/pusat" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/7/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/interlude/7" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-1/7/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type/pusat" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+1725770164542	Marionette	INFO	Stopped listening on port 56084
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56652" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileyNuNBr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725769708076	Marionette	INFO	Marionette enabled
+1725769708253	Marionette	INFO	Listening on port 56661
+Read port: 56661
+WebDriver BiDi listening on ws://127.0.0.1:56652
+1725769708373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/8/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/interlude/8" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-1/8/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type/pusat" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/8/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/interlude/8" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-1/8/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type/pusat" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/8/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/interlude/8" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-1/8/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type/pusat" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+1725770165397	Marionette	INFO	Stopped listening on port 56661
+Dynamically enable window occlusion 1
+ttp://127.0.0.1:8080/exam/session-1/9/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type/pusat" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/9/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/interlude/9" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-1/9/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type/pusat" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/type" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+1725770166316	Marionette	INFO	Stopped listening on port 56850
+Dynamically enable window occlusion 1
+rror: ({})
+1725770024891	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725770030118	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725770035128	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725770040127	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725770045445	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725770050424	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725770055569	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725770060865	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725770069725	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/10/caseStudy" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/10/caseStudy#1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/10/5#" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/10/5" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/10/4" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/10/3" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/10/2" ({})
+1725770167243	Marionette	INFO	Stopped listening on port 57023
+Dynamically enable window occlusion 1
+1725774874749	geckodriver	INFO	Listening on 127.0.0.1:58112
+1725774877817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58113" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilewCIdP8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725774878315	Marionette	INFO	Marionette enabled
+1725774878444	Marionette	INFO	Listening on port 58139
+WebDriver BiDi listening on ws://127.0.0.1:58113
+Read port: 58139
+1725774878667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1725775150306	Marionette	INFO	Stopped listening on port 58139
+Dynamically enable window occlusion 1
+tening on ws://127.0.0.1:58248
+Read port: 58264
+1725774926824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1725774945821	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725774955438	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725774959438	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725774964390	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725774968499	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725774973347	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725774977465	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725774982303	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725774986431	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725774991559	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725774995442	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775002678	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/11/caseStudy" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/11/caseStudy#1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/11/5#" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/11/5" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/11/4" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/11/3" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/11/2" ({})
+1725775151238	Marionette	INFO	Stopped listening on port 58264
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58666" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileOAiCbd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725775055306	Marionette	INFO	Marionette enabled
+1725775055416	Marionette	INFO	Listening on port 58673
+WebDriver BiDi listening on ws://127.0.0.1:58666
+Read port: 58673
+1725775055567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1725775073791	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775083427	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775087462	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775092401	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775096628	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775101472	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775105612	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775110523	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775114634	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775119628	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775123423	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775130750	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1725775152787	Marionette	INFO	Stopped listening on port 58673
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59090" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileRt99fZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725775147358	Marionette	INFO	Marionette enabled
+1725775147508	Marionette	INFO	Listening on port 59099
+WebDriver BiDi listening on ws://127.0.0.1:59090
+Read port: 59099
+1725775147686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1725775168124	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775177973	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775182971	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775188022	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775192233	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775197090	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775201224	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775206011	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775210127	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775214968	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775218714	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775225970	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/review/13" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/caseStudy" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/caseStudy#1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/5#" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/5" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/4" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/review/13" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/caseStudy" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/caseStudy#1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/5#" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/5" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/4" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/review/13" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/caseStudy" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/caseStudy#1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/5#" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/5" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/4" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/review/13" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/caseStudy" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/caseStudy#1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/5#" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/5" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/13/4" ({})
+1725813150076	Marionette	INFO	Stopped listening on port 59099
+Dynamically enable window occlusion 1
+ring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1725775429335	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+JavaScript error: http://cdn.ckeditor.com/4.11.1/standard/ckeditor.js, line 258: TypeError: c[a] is undefined
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/review/14" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/14/caseStudy" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/14/caseStudy#1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/14/5#" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/14/5" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/user" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/review/14" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/14/caseStudy" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/14/caseStudy#1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/14/5#" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/exam/session-2/14/5" ({})
+1725813149003	Marionette	INFO	Stopped listening on port 59631
+Dynamically enable window occlusion 1
+1726195251173	geckodriver	INFO	Listening on 127.0.0.1:60448
+1726195254213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileDvi245"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1726195254619	Marionette	INFO	Marionette enabled
+1726195254739	Marionette	INFO	Listening on port 60457
+WebDriver BiDi listening on ws://127.0.0.1:60449
+Read port: 60457
+1726195254926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1726195265248	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195265254	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195265260	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195265266	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195265272	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195265278	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1726195284586	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195284592	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/pusat/2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/7" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/pusat/2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/7" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/pusat/2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/7" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/pusat/2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/7" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+1726195848739	Marionette	INFO	Stopped listening on port 60457
+Dynamically enable window occlusion 1
+.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/7" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/daerah/2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/daerah/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/7" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/daerah/2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/daerah/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/7" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/create" ({})
+1726195849623	Marionette	INFO	Stopped listening on port 60691
+Dynamically enable window occlusion 1
+	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1726195566983	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195566992	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1726195577858	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577866	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577870	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577875	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577880	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577885	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577889	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577894	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577904	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577908	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577930	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577935	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577938	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577942	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577947	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577956	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577962	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577966	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577971	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577976	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726195577982	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/daerah/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/pusat/2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/daerah/7" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/daerah/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/pusat/2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/daerah/7" ({})
+1726195850573	Marionette	INFO	Stopped listening on port 60948
+Dynamically enable window occlusion 1
+1726717213975	geckodriver	INFO	Listening on 127.0.0.1:58169
+1726717217038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58170" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileFScJDg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1726717217816	Marionette	INFO	Marionette enabled
+1726717218030	Marionette	INFO	Listening on port 58180
+Read port: 58180
+WebDriver BiDi listening on ws://127.0.0.1:58170
+1726717218181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1726717226087	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1726717227694	Marionette	INFO	Stopped listening on port 58180
+Dynamically enable window occlusion 1
+1726717295655	geckodriver	INFO	Listening on 127.0.0.1:58273
+1726717298670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileSbTvW5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1726717299221	Marionette	INFO	Marionette enabled
+1726717299432	Marionette	INFO	Listening on port 58284
+WebDriver BiDi listening on ws://127.0.0.1:58274
+Read port: 58284
+1726717299721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+1726717320827	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1726717324474	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324482	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324489	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324496	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324501	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324507	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324513	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324519	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324525	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324531	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324563	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324577	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324583	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324589	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324595	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324602	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324608	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324613	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324619	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324625	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717324631	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+1726717784323	Marionette	INFO	Stopped listening on port 58284
+Dynamically enable window occlusion 1
+ecause document has an invalid readyState of 'interactive'.
+1726717621422	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717621429	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717621435	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717621441	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717621449	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1726717641245	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717641255	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1726717653654	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653668	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653675	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653682	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653689	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653696	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653705	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653712	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653720	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653738	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653772	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653779	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653786	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653793	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653801	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653814	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653824	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653831	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653839	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653846	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726717653856	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/pusat/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/case-study/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/daerah/2" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/daerah/1" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/essay/create" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin/multiple-choice/daerah/7" ({})
+1726717785432	Marionette	INFO	Stopped listening on port 58655
+Dynamically enable window occlusion 1
+1727581747552	geckodriver	INFO	Listening on 127.0.0.1:52758
+1727581750605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileCZLyaA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727581751368	Marionette	INFO	Marionette enabled
+1727581751598	Marionette	INFO	Listening on port 52767
+WebDriver BiDi listening on ws://127.0.0.1:52759
+Read port: 52767
+1727581751919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1727584029716	Marionette	INFO	Stopped listening on port 52767
+Dynamically enable window occlusion 1
+8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+1727584030649	Marionette	INFO	Stopped listening on port 52899
+Dynamically enable window occlusion 1
+.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/admin" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/sign-in" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1727584031756	Marionette	INFO	Stopped listening on port 53426
+Dynamically enable window occlusion 1
+1727584518663	geckodriver	INFO	Listening on 127.0.0.1:53709
+1727584521686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53710" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofile8HFhlV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727584522268	Marionette	INFO	Marionette enabled
+1727584522448	Marionette	INFO	Listening on port 53717
+WebDriver BiDi listening on ws://127.0.0.1:53710
+Read port: 53717
+1727584522698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1727584559581	Marionette	INFO	Stopped listening on port 53717
+Dynamically enable window occlusion 1
+1727584894622	geckodriver	INFO	Listening on 127.0.0.1:53839
+1727584897681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53840" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilet5QI6t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727584898352	Marionette	INFO	Marionette enabled
+1727584898522	Marionette	INFO	Listening on port 53847
+WebDriver BiDi listening on ws://127.0.0.1:53840
+Read port: 53847
+1727584898833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://127.0.0.1:8080/" ({})
+1727590760411	Marionette	INFO	Stopped listening on port 53847
+Dynamically enable window occlusion 1
+1730207883755	geckodriver	INFO	Listening on 127.0.0.1:50656
+1730207886784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50657" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileyHziGi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730207887184	Marionette	INFO	Marionette enabled
+1730207887319	Marionette	INFO	Listening on port 50671
+WebDriver BiDi listening on ws://127.0.0.1:50657
+Read port: 50671
+1730207887539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1730207890254	Marionette	INFO	Stopped listening on port 50671
+Dynamically enable window occlusion 1
+1730208018615	geckodriver	INFO	Listening on 127.0.0.1:50715
+1730208021632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50716" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofile6HB881"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730208021954	Marionette	INFO	Marionette enabled
+1730208022058	Marionette	INFO	Listening on port 50723
+WebDriver BiDi listening on ws://127.0.0.1:50716
+Read port: 50723
+1730208022214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1730208024796	Marionette	INFO	Stopped listening on port 50723
+Dynamically enable window occlusion 1
+1730208073590	geckodriver	INFO	Listening on 127.0.0.1:50754
+1730208076601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileVGCVVJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730208076913	Marionette	INFO	Marionette enabled
+1730208077015	Marionette	INFO	Listening on port 50762
+WebDriver BiDi listening on ws://127.0.0.1:50755
+Read port: 50762
+1730208077167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+1730208086199	Marionette	INFO	Stopped listening on port 50762
+Dynamically enable window occlusion 1
+1730208679762	geckodriver	INFO	Listening on 127.0.0.1:50971
+1730208682789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50972" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileowoPYl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730208683099	Marionette	INFO	Marionette enabled
+1730208683204	Marionette	INFO	Listening on port 50979
+WebDriver BiDi listening on ws://127.0.0.1:50972
+Read port: 50979
+1730208683352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1730208690244	Marionette	INFO	Stopped listening on port 50979
+JavaScript warning: https://cdn.jsdelivr.net/npm/chart.js, line 13: Script terminated by timeout at:
+_update/<@https://cdn.jsdelivr.net/npm/chart.js:13:6743
+_update@https://cdn.jsdelivr.net/npm/chart.js:13:6727
+_refresh/this._request<@https://cdn.jsdelivr.net/npm/chart.js:13:6620
+
+Dynamically enable window occlusion 1
+1730208693820	geckodriver	INFO	Listening on 127.0.0.1:51063
+1730208696857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51064" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofile5TNzTE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730208697188	Marionette	INFO	Marionette enabled
+1730208697297	Marionette	INFO	Listening on port 51071
+WebDriver BiDi listening on ws://127.0.0.1:51064
+Read port: 51071
+1730208697455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1730208700335	Marionette	INFO	Stopped listening on port 51071
+Dynamically enable window occlusion 1
+1730208704073	geckodriver	INFO	Listening on 127.0.0.1:51094
+1730208707130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51095" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilef98psI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730208707437	Marionette	INFO	Marionette enabled
+1730208707536	Marionette	INFO	Listening on port 51102
+WebDriver BiDi listening on ws://127.0.0.1:51095
+Read port: 51102
+1730208707683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1730208720238	Marionette	INFO	Stopped listening on port 51102
+Dynamically enable window occlusion 1
+1730208723778	geckodriver	INFO	Listening on 127.0.0.1:51123
+1730208726814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51124" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilelnCKNc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730208727146	Marionette	INFO	Marionette enabled
+1730208727255	Marionette	INFO	Listening on port 51134
+WebDriver BiDi listening on ws://127.0.0.1:51124
+Read port: 51134
+1730208727434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1730208729864	Marionette	INFO	Stopped listening on port 51134
+Dynamically enable window occlusion 1
+1730208868175	geckodriver	INFO	Listening on 127.0.0.1:51173
+1730208871229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51174" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileNAA5WV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730208871542	Marionette	INFO	Marionette enabled
+1730208871645	Marionette	INFO	Listening on port 51181
+WebDriver BiDi listening on ws://127.0.0.1:51174
+Read port: 51181
+1730208871797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1730208878579	Marionette	INFO	Stopped listening on port 51181
+JavaScript warning: https://cdn.jsdelivr.net/npm/chart.js, line 19: Script terminated by timeout at:
+_notify@https://cdn.jsdelivr.net/npm/chart.js:19:46630
+tick@https://cdn.jsdelivr.net/npm/chart.js:19:46303
+_update/<@https://cdn.jsdelivr.net/npm/chart.js:13:6899
+_update@https://cdn.jsdelivr.net/npm/chart.js:13:6727
+_refresh/this._request<@https://cdn.jsdelivr.net/npm/chart.js:13:6620
+
+Dynamically enable window occlusion 1
+1730209279957	geckodriver	INFO	Listening on 127.0.0.1:51629
+1730209282973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileDMAvqf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730209283281	Marionette	INFO	Marionette enabled
+1730209283384	Marionette	INFO	Listening on port 51637
+WebDriver BiDi listening on ws://127.0.0.1:51630
+Read port: 51637
+1730209283541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+1730209290373	Marionette	INFO	Stopped listening on port 51637
+Dynamically enable window occlusion 1
+1730209293976	geckodriver	INFO	Listening on 127.0.0.1:51719
+1730209297006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileSfAfSx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730209297383	Marionette	INFO	Marionette enabled
+1730209297515	Marionette	INFO	Listening on port 51727
+WebDriver BiDi listening on ws://127.0.0.1:51720
+Read port: 51727
+1730209297686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1730209300613	Marionette	INFO	Stopped listening on port 51727
+Dynamically enable window occlusion 1
+1730209434591	geckodriver	INFO	Listening on 127.0.0.1:51773
+1730209437639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileNAaxxi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730209437948	Marionette	INFO	Marionette enabled
+1730209438049	Marionette	INFO	Listening on port 51785
+WebDriver BiDi listening on ws://127.0.0.1:51774
+Read port: 51785
+1730209438204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1730209445888	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209445900	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209445905	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209445911	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209445916	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209445920	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1730209458643	Marionette	INFO	Stopped listening on port 51785
+Dynamically enable window occlusion 1
+1730209518675	geckodriver	INFO	Listening on 127.0.0.1:51927
+1730209521692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51928" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileiNkaga"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730209522015	Marionette	INFO	Marionette enabled
+1730209522127	Marionette	INFO	Listening on port 51935
+WebDriver BiDi listening on ws://127.0.0.1:51928
+Read port: 51935
+1730209522299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1730209529841	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209529852	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209529858	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209529862	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209529867	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209529872	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+1730209542406	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209542414	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1730209547103	Marionette	INFO	Stopped listening on port 51935
+Dynamically enable window occlusion 1
+1730209621034	geckodriver	INFO	Listening on 127.0.0.1:52079
+1730209624074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52080" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileIHZ8xc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730209624385	Marionette	INFO	Marionette enabled
+1730209624486	Marionette	INFO	Listening on port 52087
+WebDriver BiDi listening on ws://127.0.0.1:52080
+Read port: 52087
+1730209624651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1730209632225	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209632238	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209632242	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209632247	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209632252	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209632257	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+1730209644772	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209644780	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1730209649288	Marionette	INFO	Stopped listening on port 52087
+Dynamically enable window occlusion 1
+1730209672556	geckodriver	INFO	Listening on 127.0.0.1:52222
+1730209675605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileXTOmPH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730209675910	Marionette	INFO	Marionette enabled
+1730209676012	Marionette	INFO	Listening on port 52230
+WebDriver BiDi listening on ws://127.0.0.1:52223
+Read port: 52230
+1730209676160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1730209683774	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209683786	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209683790	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209683795	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209683800	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209683804	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+1730209696441	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209696449	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+1730209701454	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701463	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701468	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701472	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701478	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701482	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701487	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701491	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701500	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701505	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701527	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701532	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701536	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701540	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701545	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701553	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701558	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701563	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701571	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730209701575	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1730209714438	Marionette	INFO	Stopped listening on port 52230
+Dynamically enable window occlusion 1
+1730210174782	geckodriver	INFO	Listening on 127.0.0.1:52496
+1730210177808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileugQPjc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730210178138	Marionette	INFO	Marionette enabled
+1730210178241	Marionette	INFO	Listening on port 52507
+WebDriver BiDi listening on ws://127.0.0.1:52497
+Read port: 52507
+1730210178390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1730210188664	Marionette	INFO	Stopped listening on port 52507
+Dynamically enable window occlusion 1
+1730210636320	geckodriver	INFO	Listening on 127.0.0.1:52728
+1730210639365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52729" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileWwGLEM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730210639680	Marionette	INFO	Marionette enabled
+1730210639781	Marionette	INFO	Listening on port 52737
+WebDriver BiDi listening on ws://127.0.0.1:52729
+Read port: 52737
+1730210639964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1730210652664	Marionette	INFO	Stopped listening on port 52737
+Dynamically enable window occlusion 1
+1730210710572	geckodriver	INFO	Listening on 127.0.0.1:52769
+1730210713618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52770" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilej0j221"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730210713928	Marionette	INFO	Marionette enabled
+1730210714028	Marionette	INFO	Listening on port 52777
+WebDriver BiDi listening on ws://127.0.0.1:52770
+Read port: 52777
+1730210714197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+1730210728564	Marionette	INFO	Stopped listening on port 52777
+Dynamically enable window occlusion 1
+1730210782061	geckodriver	INFO	Listening on 127.0.0.1:52841
+1730210785088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilec2u2nH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730210785396	Marionette	INFO	Marionette enabled
+1730210785498	Marionette	INFO	Listening on port 52849
+WebDriver BiDi listening on ws://127.0.0.1:52842
+Read port: 52849
+1730210785676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+1730210800151	Marionette	INFO	Stopped listening on port 52849
+Dynamically enable window occlusion 1
+1730210825778	geckodriver	INFO	Listening on 127.0.0.1:52919
+1730210828795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52920" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofilejZ1lqD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730210829099	Marionette	INFO	Marionette enabled
+1730210829201	Marionette	INFO	Listening on port 52927
+WebDriver BiDi listening on ws://127.0.0.1:52920
+Read port: 52927
+1730210829359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1730210838521	Marionette	INFO	Stopped listening on port 52927
+Dynamically enable window occlusion 1
+1730210858830	geckodriver	INFO	Listening on 127.0.0.1:53018
+1730210861878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofileDLP3S0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730210862213	Marionette	INFO	Marionette enabled
+1730210862319	Marionette	INFO	Listening on port 53026
+WebDriver BiDi listening on ws://127.0.0.1:53019
+Read port: 53026
+1730210862474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+1730210871498	Marionette	INFO	Stopped listening on port 53026
+Dynamically enable window occlusion 1
+1730211009905	geckodriver	INFO	Listening on 127.0.0.1:53175
+1730211012921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53176" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hpg3t\\AppData\\Local\\Temp\\rust_mozprofile3WA5ok"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730211013247	Marionette	INFO	Marionette enabled
+1730211013351	Marionette	INFO	Listening on port 53183
+WebDriver BiDi listening on ws://127.0.0.1:53176
+Read port: 53183
+1730211013515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://127.0.0.1:8080."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1730211032270	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1730211041910	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1730211046041	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1730211050856	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1730211054955	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1730211059759	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1730211063834	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1730211068654	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1730211072722	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1730211077554	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1730211081467	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730211081475	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730211081479	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730211081483	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730211081487	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730211081492	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+1730211088669	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730211088689	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730211088695	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730211088700	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730211088705	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1730211088714	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1730211096171	Marionette	INFO	Stopped listening on port 53183
+Dynamically enable window occlusion 1
